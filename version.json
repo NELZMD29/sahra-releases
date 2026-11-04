@@ -1,14 +1,14 @@
 {
-  "version_code": 9,
-  "version_name": "1.2.6",
+  "version_code": 10,
+  "version_name": "1.2.7",
   "min_supported_code": 1,
   "force_update": false,
-  "download_url": "https://github.com/NELZMD29/sahra-releases/releases/download/v1.2.6/app-release.apk",
-  "apk_url": "https://github.com/NELZMD29/sahra-releases/releases/download/v1.2.6/app-release.apk",
+  "download_url": "https://github.com/NELZMD29/sahra-releases/releases/download/v1.2.7/app-release.apk",
+  "apk_url": "https://github.com/NELZMD29/sahra-releases/releases/download/v1.2.7/app-release.apk",
   "fallback_urls": [
     "https://github.com/NELZMD29/sahra-releases/releases/latest/download/app-release.apk"
   ],
-  "page_url": "https://github.com/NELZMD29/sahra-releases/releases/tag/v1.2.6",
-  "changelog_ar": "أيقونة إشعارات جديدة ونصّ أقصر وأوضح، وروابط تحميل بديلة إذا فشل الرابط الأساسي.",
-  "changelog_en": "New notification icon with shorter, clearer text, plus fallback download links if the main link fails."
+  "page_url": "https://github.com/NELZMD29/sahra-releases/releases/tag/v1.2.7",
+  "changelog_ar": "قنوات مباشرة حقيقية، تنبيهات حلقات جديدة لما تتابعه، أكمل المشاهدة من حيث توقفت، طلبات أعمال حقيقية، وأيقونة إشعارات أوضح.",
+  "changelog_en": "Real live TV channels, new-episode alerts for your follows, continue watching where you left off, real title requests, and a clearer notification icon."
 }
